@@ -1,5 +1,21 @@
+# Virtual environment
 .venv/
-# Ignore Python bytecode cache
+
+# Python
 __pycache__/
 *.py[cod]
+
+# Jupyter
 .ipynb_checkpoints/
+
+# MLflow
+mlflow.db
+mlruns/
+
+# CatBoost
+catboost_info/
+artifacts/
+
+# Generated experiment files
+*_feature_importance.csv
+credit_risk_experiments.csv
