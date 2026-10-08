@@ -1,0 +1,17 @@
+feature,importance
+HasDependents,5714
+Education,5676
+DTIRatio,5389
+EmploymentType,5342
+MaritalStatus,4827
+LoanTerm,4331
+HasCoSigner,4144
+NumCreditLines,2360
+Income,2262
+Age,2151
+LoanAmount,1911
+MonthsEmployed,1504
+CreditScore,1361
+InterestRate,1329
+LoanPurpose,1098
+HasMortgage,1001

@@ -1,0 +1,17 @@
+feature,importance
+Age,36.59721511858401
+MonthsEmployed,23.555461641754224
+CreditScore,16.295147908056393
+LoanTerm,11.898409030657305
+NumCreditLines,10.887889896738862
+LoanAmount,0.7658764042091882
+Income,0.0
+InterestRate,0.0
+DTIRatio,0.0
+Education,0.0
+EmploymentType,0.0
+MaritalStatus,0.0
+HasMortgage,0.0
+HasDependents,0.0
+LoanPurpose,0.0
+HasCoSigner,0.0

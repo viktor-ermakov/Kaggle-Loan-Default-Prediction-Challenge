@@ -1,0 +1,1 @@
+{"columns":["feature","importance"],"data":[["NumCreditLines",5602],["MonthsEmployed",5596],["CreditScore",5463],["Income",5306],["LoanTerm",4780],["Age",4194],["LoanAmount",4080],["LoanPurpose",2425],["EmploymentType",2309],["Education",2279],["MaritalStatus",1863],["HasDependents",1553],["HasMortgage",1383],["HasCoSigner",1336],["InterestRate",1175],["DTIRatio",1056]]}

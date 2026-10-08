@@ -1,0 +1,23 @@
+artifact_path: file:c:/Users/victo/Downloads/firsthelp/notebooks/mlruns/1/models/m-37be74730f1a461da29052a448ce318b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-37be74730f1a461da29052a448ce318b
+model_size_bytes: 2565
+model_uuid: m-37be74730f1a461da29052a448ce318b
+prompts: null
+run_id: 573fa0029a77455b91aada10c2e13a2f
+utc_time_created: '2026-05-27 16:59:00.295615'
